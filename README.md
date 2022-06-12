@@ -1,5 +1,8 @@
-# Open-Resources DataSets
-list of dataset resources available.
+# Open-Resources
+list of open resources that are available about information technology.
+* created at: 12-06-2022
+* last updated at: 12-06-2022
+* written by Kent vejrup Madsen
 
-
-1. [documentation content](Docs/readme.md)
+## Content
+1. [documentation content](Docs/index.md)
