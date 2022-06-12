@@ -18,3 +18,10 @@
         * [Java Driver JRE](https://www.java.com/en/download/)
     * OpenJDK
         * [JDK](https://openjdk.java.net/install/)
+
+
+## Footnote
+* created at: 12-06-2022
+* last updated at: 12-06-2022
+* written by Kent vejrup Madsen
+* license: [MIT LICENSE](License.md)
