@@ -1,12 +1,9 @@
 # Documentation
 
-## Content
-### Header Section
+## Categories
+### Header
 1. [License](License.md) 
 2. [collaborated by](collaboration.md)
 
-### 
-
-### Dataset Categories
-1. [email datasets](emails.md)
-2. [countries related datasets](countries.md)
+### Main
+1. [datasets](datasets/readme.md)
