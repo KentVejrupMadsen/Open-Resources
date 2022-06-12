@@ -5,4 +5,4 @@ list of open resources that are available about information technology.
 * written by Kent vejrup Madsen
 
 ## Content
-1. [documentation content](Docs/readme.md)
+1. [documentation content](Docs/index.md)
