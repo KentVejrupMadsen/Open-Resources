@@ -1,1 +1,1 @@
-# Collobarted by
+# Collaborated by
