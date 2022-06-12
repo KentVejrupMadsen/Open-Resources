@@ -9,6 +9,10 @@
 1. [datasets](datasets/readme.md)
 2. [frameworks](frameworks/readme.md)
 
+### Resources
+1. [Open Source Initiativ](https://opensource.org/)
+    * [Open Source Licenses](https://opensource.org/licenses)
+
 
 ### Programming languages
 1. [Scala](https://www.scala-lang.org/)
@@ -18,7 +22,7 @@
         * [Java Driver JRE](https://www.java.com/en/download/)
     * OpenJDK
         * [JDK](https://openjdk.java.net/install/)
-
+3. [resources](programming/resources.md)
 
 ## Footnote
 * created at: 12-06-2022
